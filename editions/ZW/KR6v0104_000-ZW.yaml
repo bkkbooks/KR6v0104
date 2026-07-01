@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0104/zw/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 關於江泌女子僧法誦出經
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW09/ZW09n0077.xml
+    old_id: ZW09n0077
+hash: sha256:078cc8a37a0a6a3f23a82ffbbcdff4838bbf8a6687f5069d8f59a2d6d3446a68

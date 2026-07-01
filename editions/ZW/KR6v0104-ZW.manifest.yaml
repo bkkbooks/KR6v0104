@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR6v0104/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0104/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 關於江泌女子僧法誦出經
+  identifiers:
+    krp: KR6v0104
+    cbeta: ZW09n0077
+    cbeta_old_id: ZW09n0077
+    authorityid: CA0008514
+    json_key: ZW0077
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW09/ZW09n0077.xml
+    old_id: ZW09n0077
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0104_000-ZW.yaml, hash: 'sha256:078cc8a37a0a6a3f23a82ffbbcdff4838bbf8a6687f5069d8f59a2d6d3446a68'}
+  - {seq: 1, filename: KR6v0104_001-ZW.yaml, hash: 'sha256:e5e1ebb5e2a04f93d02ce2fe25780a9ce7fd307deef67f321cbcb042e8e5a3a6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0104_000-ZW.markers.yaml, hash: 'sha256:6ff340559bac41b1d724898d07256a151c726e7f7ca30a527ed67cd208693c2d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0104_001-ZW.markers.yaml, hash: 'sha256:24b4e6e658966fe15cb65dbae8d73baf395f45b50924d47b84dd26b3fb6180a9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0104_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 16915
+  label: 關於江泌女子僧法誦出經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0104_ZW_001-mulu-1
+    span:
+    - body
+    - 3
+    - 3
+  label: 一、問題的提出
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0104_ZW_001-mulu-2
+    span:
+    - body
+    - 1448
+    - 1448
+  label: 二、僧祐時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0104_ZW_001-mulu-3
+    span:
+    - body
+    - 1453
+    - 1453
+  label: 1. 《眾經別錄》的記載
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0104_ZW_001-mulu-4
+    span:
+    - body
+    - 2499
+    - 2499
+  label: 2. 僧祐的「疑經」觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0104_ZW_001-mulu-5
+    span:
+    - body
+    - 5360
+    - 5360
+  label: 3. 僧祐與僧法誦出經的著錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0104_ZW_001-mulu-6
+    span:
+    - body
+    - 6979
+    - 6979
+  label: 三、後代觀點
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0104_ZW_001-mulu-7
+    span:
+    - body
+    - 8165
+    - 8165
+  label: 四、僧法誦出經的流傳
+  type: mulu
+  level: 1
+hash: sha256:0410b32f4c29afad20e54db4dfc9df2ef0daed6fe1b295d60b6c9e3669b76b3f
