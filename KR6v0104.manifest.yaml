@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0104_000.yaml, hash: 'sha256:078cc8a37a0a6a3f23a82ffbbcdff4838bbf8a6687f5069d8f59a2d6d3446a68'}
-  - {seq: 1, filename: KR6v0104_001.yaml, hash: 'sha256:c8dfaa9314b3480c860d1fbc50b51b0b301ff0d2697ea3cfbce5c4f2f09d0f31'}
+  - {seq: 1, filename: KR6v0104_001.yaml, hash: 'sha256:e5e1ebb5e2a04f93d02ce2fe25780a9ce7fd307deef67f321cbcb042e8e5a3a6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0104_001.markers.yaml, hash: 'sha256:b17cfc3908b39498de2f775d63634e973b6f510d34a514bf1acbafaec1383080'}
+  - {seq: 0, role: markers, filename: assets/KR6v0104_000.markers.yaml, hash: 'sha256:3d7380a02e36a37292d3e24d41e18750e5785e3bae824074af98f05b1c3a0940'}
+  - {seq: 1, role: markers, filename: assets/KR6v0104_001.markers.yaml, hash: 'sha256:d78d00a61a59a4ff8ee82e1f2fcb4e7bd3535188e45872f0dec53d77bc3d71c8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -106,7 +107,4 @@ table_of_contents:
   label: 四、僧法誦出經的流傳
   type: mulu
   level: 1
-hash: sha256:f623e274785493fcf4b921cb0baa2a1e2b3afd4d86d61b80bcb3ffc578d0ad1f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:409836343cc0fe84eee693965a70519e0d7dda1a1ae7f6de4051162b3cb48ed0
