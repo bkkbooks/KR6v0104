@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0104/v1
 canonical_location: https://kanripo.org/bkk/KR6v0104/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 關於江泌女子僧法誦出經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0104_000.yaml, hash: 'sha256:078cc8a37a0a6a3f23a82ffbbcdff4838bbf8a6687f5069d8f59a2d6d3446a68'}
-  - {seq: 1, filename: KR6v0104_001.yaml, hash: 'sha256:e5e1ebb5e2a04f93d02ce2fe25780a9ce7fd307deef67f321cbcb042e8e5a3a6'}
+  - {seq: 1, filename: KR6v0104_001.yaml, hash: 'sha256:abdee8d10a9ccf26a0791b4a9b0d10e2a6450342ac67d09b95ccd053f3343750'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0104_000.markers.yaml, hash: 'sha256:3d7380a02e36a37292d3e24d41e18750e5785e3bae824074af98f05b1c3a0940'}
-  - {seq: 1, role: markers, filename: assets/KR6v0104_001.markers.yaml, hash: 'sha256:d78d00a61a59a4ff8ee82e1f2fcb4e7bd3535188e45872f0dec53d77bc3d71c8'}
+  - {seq: 1, role: markers, filename: assets/KR6v0104_001.markers.yaml, hash: 'sha256:ae7f2d641d18e4eb960872f05eb8e7031edc66ea1dd1abc64cb741471757bd50'}
 table_of_contents:
 - ref:
     seq: 1
@@ -107,4 +107,7 @@ table_of_contents:
   label: 四、僧法誦出經的流傳
   type: mulu
   level: 1
-hash: sha256:409836343cc0fe84eee693965a70519e0d7dda1a1ae7f6de4051162b3cb48ed0
+hash: sha256:215dcd5a175be0ba9566af34aa396a102be76e497f8d0a6a463ad4d202a4ab50
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
